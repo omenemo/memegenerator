@@ -108,3 +108,4 @@ if __name__ == '__main__':
 	filename = str(meme)+'.jpg'
 	make_meme(topString, bottomString, filename)	
 
+quit()
